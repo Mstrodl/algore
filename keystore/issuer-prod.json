@@ -1,0 +1,21 @@
+{
+  "id": "did:hpass:b3a918aa1ec2b0f0d58a6ca3e7c8ebb6a631cbb2408ad5e8ecaca9fdb48ee4bf:7210026a6918e3250c1d1094636c0a89cc06468cf302bce2216e20c755d020ac",
+  "created": "2021-02-22T20:16:14Z",
+  "updated": "2021-02-22T20:16:14Z",
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "publicKey": [
+    {
+      "id": "did:hpass:b3a918aa1ec2b0f0d58a6ca3e7c8ebb6a631cbb2408ad5e8ecaca9fdb48ee4bf:7210026a6918e3250c1d1094636c0a89cc06468cf302bce2216e20c755d020ac#key-1",
+      "type": "P-256",
+      "controller": "did:hpass:b3a918aa1ec2b0f0d58a6ca3e7c8ebb6a631cbb2408ad5e8ecaca9fdb48ee4bf:7210026a6918e3250c1d1094636c0a89cc06468cf302bce2216e20c755d020ac",
+      "publicKeyJwk": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "zcEtvdFwRdodeSFWewm4FaFx3iFtpOMeEVBiJNROjNY",
+        "y": "hEFHXvuG88wGQeJGGShlPtgg7NAteHgEXBKJ8mx_yno"
+      }
+    }
+  ]
+}

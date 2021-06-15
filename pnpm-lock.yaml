@@ -1,0 +1,25 @@
+lockfileVersion: 5.3
+
+specifiers:
+  jose: ^3.12.3
+  json-stable-stringify: ^1.0.1
+
+dependencies:
+  jose: 3.12.3
+  json-stable-stringify: 1.0.1
+
+packages:
+
+  /jose/3.12.3:
+    resolution: {integrity: sha512-PtT5I/omolkItXxKu+BhyrBhoYpmJAIPiG+W00BwZ4I3gT9rl8pLnK5cs2ha0LAknMxLVvM3UexcuYwNUkQ7aw==}
+    dev: false
+
+  /json-stable-stringify/1.0.1:
+    resolution: {integrity: sha1-mnWdOcXy/1A/1TAGRu1EX4jE+a8=}
+    dependencies:
+      jsonify: 0.0.0
+    dev: false
+
+  /jsonify/0.0.0:
+    resolution: {integrity: sha1-LHS27kHZPKUbe1qu6PUDYx0lKnM=}
+    dev: false

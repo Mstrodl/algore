@@ -1,0 +1,12 @@
+{
+  "name": "algore",
+  "version": "1.0.0",
+  "description": "Little library to verify Excelsior Passes. EXCELSIORRRR",
+  "main": "index.js",
+  "author": "Mary Strodl",
+  "license": "MIT",
+  "dependencies": {
+    "jose": "^3.12.3",
+    "json-stable-stringify": "^1.0.1"
+  }
+}
